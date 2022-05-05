@@ -19,7 +19,7 @@ public class MainController {
     //ExerciseRepo exerciseRepo;
 
     @GetMapping("/questions")
-    public List<Exercise> getExercisesAPI(@RequestParam int amount){
+    public List<Exercise> getExercisesAPI(@RequestParam int amount) {
         List<Exercise> exerciseList = new ArrayList<>();
 
         for (int i = 0; i < amount; i++) {
