@@ -1,4 +1,4 @@
-package com.clairdess.physics;
+package com.clairdess.math;
 
 import lombok.AllArgsConstructor;
 import lombok.Builder;

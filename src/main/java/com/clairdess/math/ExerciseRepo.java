@@ -1,4 +1,4 @@
-package com.clairdess.physics;
+package com.clairdess.math;
 
 //@Repository
 //@EnableJpaRepositories

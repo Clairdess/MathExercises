@@ -1,10 +1,10 @@
-package com.clairdess.physics;
+package com.clairdess.math;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class PhysicsApplicationTests {
+class MathApplicationTests {
 
     @Test
     void contextLoads() {

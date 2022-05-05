@@ -1,4 +1,4 @@
-package com.clairdess.physics;
+package com.clairdess.math;
 
 import org.springframework.stereotype.Service;
 

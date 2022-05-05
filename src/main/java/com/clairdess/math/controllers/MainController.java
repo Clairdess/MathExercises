@@ -1,7 +1,7 @@
-package com.clairdess.physics.controllers;
+package com.clairdess.math.controllers;
 
-import com.clairdess.physics.Exercise;
-import com.clairdess.physics.MathService;
+import com.clairdess.math.Exercise;
+import com.clairdess.math.MathService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
@@ -34,7 +34,7 @@ public class MainController {
     //}
 
     @Autowired
-    public void setPhysicsService(MathService mathService) {
+    public void setMathService(MathService mathService) {
         this.mathService = mathService;
     }
 
