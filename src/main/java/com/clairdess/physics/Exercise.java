@@ -1,6 +1,9 @@
 package com.clairdess.physics;
 
-import lombok.*;
+import lombok.AllArgsConstructor;
+import lombok.Builder;
+import lombok.RequiredArgsConstructor;
+
 import java.util.Objects;
 
 @Builder
